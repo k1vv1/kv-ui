@@ -1,0 +1,18 @@
+{
+  "name": "kv-ui-vue3",
+  "version": "1.0.3",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "kv-ui",
+    "vue3组件库"
+  ],
+  "author": "kv",
+  "license": "MIT",
+  "description": "",
+  "typings": "lib/index.d.ts"
+}
